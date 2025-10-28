@@ -4,9 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "start": "node index.js",
-  "build": "echo \"Build completed!\"",
-  "test": "node index.js"
+  "scripts": {
+  "build": "echo \"Build successful!\"",
+  "start": "node index.js"
+}
+
 },
   "keywords": [],
   "author": "",
